@@ -1,0 +1,17 @@
+{
+  "bugs": {
+    "url": "https://github.com/erkyrath/language-inform7/issues"
+  },
+  "dependencies": {},
+  "description": "Inform 7 package for Flexible Survival development in Atom",
+  "engines": {
+    "atom": "*"
+  },
+  "license": "MIT",
+  "name": "language-fs-inform",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/erkyrath/language-inform7.git"
+  },
+  "version": "0.0.0"
+}
