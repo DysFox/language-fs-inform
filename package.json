@@ -1,6 +1,6 @@
 {
   "bugs": {
-    "url": "https://github.com/erkyrath/language-inform7/issues"
+    "url": "https://github.com/FoxyDysphoria/language-fs-inform/issues"
   },
   "dependencies": {},
   "description": "Inform 7 package for Flexible Survival development in Atom",
@@ -11,7 +11,7 @@
   "name": "language-fs-inform",
   "repository": {
     "type": "git",
-    "url": "https://github.com/erkyrath/language-inform7.git"
+    "url": "https://github.com/FoxyDysphoria/language-fs-inform.git"
   },
   "version": "0.0.0"
 }
